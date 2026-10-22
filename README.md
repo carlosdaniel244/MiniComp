@@ -23,13 +23,13 @@ MiniComp lee un programa escrito en un mini lenguaje en español y produce la ta
 
 ```mermaid
 flowchart LR
-    A[Código fuente] --> B[Análisis léxico<br/>tokenizar]
-    B --> C[Verificar balance<br/>( ) y { }]
-    C --> D[Análisis sintáctico<br/>descenso recursivo]
-    D --> E[Tabla de símbolos]
-    D --> F[Notaciones<br/>infija / prefija / postfija]
-    D --> G[Cuádruplos]
-    D --> H[Triplos]
+    A["Código fuente"] --> B["Análisis léxico<br/>tokenizar"]
+    B --> C["Verificar balance<br/>paréntesis y llaves"]
+    C --> D["Análisis sintáctico<br/>descenso recursivo"]
+    D --> E["Tabla de símbolos"]
+    D --> F["Notaciones<br/>infija / prefija / postfija"]
+    D --> G["Cuádruplos"]
+    D --> H["Triplos"]
 ```
 
 ---
