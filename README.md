@@ -4,6 +4,10 @@
 * Jaqueline Hernandez Patricio
 * Monserrat Aurora Abigail Vaca Querol
 
+# Número de Equipo
+
+**5**
+
 # MiniComp
 
 **Generador de código intermedio** desarrollado para la Unidad 2 de *Lenguajes y Autómatas II*.
