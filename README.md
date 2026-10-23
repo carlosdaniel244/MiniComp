@@ -1,3 +1,9 @@
+# Nombres de Equipo
+
+* Carlos Daniel Guzmán Morales
+* Jaqueline Hernandez Patricio
+* Monserrat Aurora Abigail Vaca Querol
+
 # MiniComp
 
 **Generador de código intermedio** desarrollado para la Unidad 2 de *Lenguajes y Autómatas II*.
